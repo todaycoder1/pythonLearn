@@ -1,0 +1,4 @@
+this is my first diary
+今天学习了Python输入输出
+今天学习了文件操作
+这是追加的内容
